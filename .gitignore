@@ -1,5 +1,6 @@
 # ignore runfile with changing parameters 
 runfile_params.ipynb
+JupyterNB_testing/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
