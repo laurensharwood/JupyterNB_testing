@@ -1,3 +1,6 @@
+# ignore runfile with changing parameters 
+runfile_params.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
